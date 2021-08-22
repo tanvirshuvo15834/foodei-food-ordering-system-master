@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990545078466",
+    "firebase_url": "https://foodei2019.firebaseio.com",
+    "project_id": "foodei2019",
+    "storage_bucket": "foodei2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990545078466:android:62a84e9431064a160ef35b",
+        "android_client_info": {
+          "package_name": "com.example.foodei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990545078466-0amtuigabqv47r6i2irukfntjfa7raib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodei",
+            "certificate_hash": "2eee8fb4cf114d1e99b5555a7e99e0915f281062"
+          }
+        },
+        {
+          "client_id": "990545078466-s0oq4pr6jpo2tpj9l8ilgdlbuhsd1dsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4Zln1TkFLqN2oU5BA948oICVZmdQMQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990545078466-s0oq4pr6jpo2tpj9l8ilgdlbuhsd1dsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
